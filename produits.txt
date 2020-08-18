@@ -1,0 +1,2 @@
+Nom : bis | Prix : 100.000000 | Qte : 20
+Nom : sardine | Prix : 900.000000 | Qte : 20
